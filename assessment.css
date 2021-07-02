@@ -1,0 +1,17 @@
+  body {
+    background-color: lightgrey;
+    color: black;
+    font-family: Comic Sans MS;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  button {
+    padding: 5px 20px;
+    background-color: white;
+    border-style: none;
+    border-radius: 5px
+  }
+  input {
+    height: 30px;
+  }
